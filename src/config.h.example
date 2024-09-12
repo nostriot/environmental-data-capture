@@ -1,0 +1,3 @@
+char const *nsecHex = "";
+char const *npubHex = "";
+String relayUrl = "relay.nostriot.com";
